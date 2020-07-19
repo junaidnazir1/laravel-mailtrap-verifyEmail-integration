@@ -1,3 +1,17 @@
+
+in.env File make these changes.
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=mailtrap username
+MAIL_PASSWORD=mailtrap password
+MAIL_FROM_ADDRESS=your email address
+MAIL_FROM_NAME=Example
+MAIL_ENCRYPTION=null
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -76,3 +90,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
